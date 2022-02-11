@@ -1,9 +1,13 @@
-## Welcome to GitHub Pages
+## DataCamp Projects
+
+Some training projects performed on the [Datacamp](https://app.datacamp.com/learn) platform
 
 You can use the [editor on GitHub](https://github.com/dgizdevans/datacamp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+https://app.datacamp.com/learn  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
