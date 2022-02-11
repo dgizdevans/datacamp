@@ -1,13 +1,7 @@
 ## DataCamp Projects
 
-Some training projects performed on the [Datacamp](https://app.datacamp.com/learn) platform
+Some training projects performed on [the Datacamp](https://app.datacamp.com/learn) platform
 
-You can use the [editor on GitHub](https://github.com/dgizdevans/datacamp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-https://app.datacamp.com/learn  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -15,7 +9,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# A Network Analysis of Game of Thrones
+Analyze the network of characters in Game of Thrones and how it changes over the course of the books.
+This project uses a dataset parsed by Andrew J. Beveridge and Jie Shan which is available [here] (https://github.com/mathbeveridge/asoiaf). For more information on this dataset have a look at [the Network of Thrones blog.](https://networkofthrones.wordpress.com/)
+
 ## Header 2
 ### Header 3
 
