@@ -17,12 +17,6 @@ https://github.com/dgizdevans/datacamp/tree/main/nps
 
 Use coding best practices and functions to improve a script!
 
-### Generating Keywords for Google Ads
-https://github.com/dgizdevans/datacamp/tree/main/ads-keywords
-
-Automatically generate keywords for a search engine marketing campaign using Python.
-
-
 ### A Network Analysis of Game of Thrones 
 https://github.com/dgizdevans/datacamp/tree/main/got
 
