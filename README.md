@@ -8,12 +8,12 @@ https://github.com/dgizdevans/datacamp/tree/main/ads-keywords
 Automatically generate keywords for a search engine marketing campaign using Python.
 
 ### A/B Testing with Cookie Cats Mobile Games
-https://github.com/dgizdevans/datacamp/tree/main/ads-keywords
+https://github.com/dgizdevans/datacamp/tree/main/abtest
 
 Analyze an A/B test from the popular mobile puzzle game, Cookie Cats.
 
 ### Writing Functions for Product Analysis
-https://github.com/dgizdevans/datacamp/tree/main/ads-keywords
+https://github.com/dgizdevans/datacamp/tree/main/nps
 
 Use coding best practices and functions to improve a script!
 
