@@ -7,6 +7,22 @@ https://github.com/dgizdevans/datacamp/tree/main/ads-keywords
 
 Automatically generate keywords for a search engine marketing campaign using Python.
 
+### A/B Testing with Cookie Cats Mobile Games
+https://github.com/dgizdevans/datacamp/tree/main/ads-keywords
+
+Analyze an A/B test from the popular mobile puzzle game, Cookie Cats.
+
+### Writing Functions for Product Analysis
+https://github.com/dgizdevans/datacamp/tree/main/ads-keywords
+
+Use coding best practices and functions to improve a script!
+
+### Generating Keywords for Google Ads
+https://github.com/dgizdevans/datacamp/tree/main/ads-keywords
+
+Automatically generate keywords for a search engine marketing campaign using Python.
+
+
 ### A Network Analysis of Game of Thrones 
 https://github.com/dgizdevans/datacamp/tree/main/got
 
@@ -19,6 +35,6 @@ Load, clean, and visualize scraped Google Play Store data to gain insights into 
 The data for this project was scraped from the Google Play website.
 
 ### A Visual History of Nobel Prize Winners
-https://github.com/dgizdevans/datacamp/tree/main/got
+https://github.com/dgizdevans/datacamp/tree/main/nobel
 Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
 The dataset used in this project is from The Nobel Foundation on Kaggle.
