@@ -2,11 +2,16 @@
 
 Some training projects performed on [the Datacamp](https://app.datacamp.com/learn) platform
 
+### Generating Keywords for Google Ads
+https://github.com/dgizdevans/datacamp/tree/main/ads-keywords
+
+Automatically generate keywords for a search engine marketing campaign using Python.
+
 ### A Network Analysis of Game of Thrones 
 https://github.com/dgizdevans/datacamp/tree/main/got
 
 Analyze the network of characters in Game of Thrones and how it changes over the course of the books.
-This project uses a dataset parsed by Andrew J. Beveridge and Jie Shan which is available [here] (https://github.com/mathbeveridge/asoiaf). For more information on this dataset have a look at [the Network of Thrones blog.](https://networkofthrones.wordpress.com/)
+This project uses a dataset parsed by Andrew J. Beveridge and Jie Shan.
 
 ### The Android App Market on Google Play
 https://github.com/dgizdevans/datacamp/tree/main/android-app
