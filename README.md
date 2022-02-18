@@ -25,10 +25,19 @@ This project uses a dataset parsed by Andrew J. Beveridge and Jie Shan.
 
 ### The Android App Market on Google Play
 https://github.com/dgizdevans/datacamp/tree/main/android-app
+
 Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market.
 The data for this project was scraped from the Google Play website.
 
 ### A Visual History of Nobel Prize Winners
 https://github.com/dgizdevans/datacamp/tree/main/nobel
+
 Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
 The dataset used in this project is from The Nobel Foundation on Kaggle.
+
+## Exploring the Bitcoin Cryptocurrency Market
+https://github.com/dgizdevans/datacamp/tree/main/bitmarket
+
+You will explore the market capitalization of Bitcoin and other cryptocurrencies.
+Warning: The cryptocurrency market is exceptionally volatile, and any money you put in might disappear into thin air. Never invest money you can't afford to lose.
+
