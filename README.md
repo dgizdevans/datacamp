@@ -1,6 +1,6 @@
 # DataCamp Projects
 
-Some training projects performed on [the Datacamp](https://app.datacamp.com/learn) platform using Python and SQL
+Some training projects performed on [the Datacamp](https://app.datacamp.com/learn) platform using [Python](https://github.com/dgizdevans/datacamp/edit/main/README.md#projects-using-python) and [SQL](https://github.com/dgizdevans/datacamp/edit/main/README.md#projects-using-sql)
 
 ## Projects using Python
 
@@ -42,6 +42,7 @@ https://github.com/dgizdevans/datacamp/tree/main/bitmarket
 
 You will explore the market capitalization of Bitcoin and other cryptocurrencies.
 Warning: The cryptocurrency market is exceptionally volatile, and any money you put in might disappear into thin air. Never invest money you can't afford to lose.
+
 
 ## Projects using SQL
 
