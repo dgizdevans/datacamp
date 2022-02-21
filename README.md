@@ -1,6 +1,8 @@
 # DataCamp Projects
 
-Some training projects performed on [the Datacamp](https://app.datacamp.com/learn) platform
+Some training projects performed on [the Datacamp](https://app.datacamp.com/learn) platform using Python and SQL
+
+## Projects using Python
 
 ### Generating Keywords for Google Ads
 https://github.com/dgizdevans/datacamp/tree/main/ads-keywords
@@ -35,9 +37,17 @@ https://github.com/dgizdevans/datacamp/tree/main/nobel
 Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
 The dataset used in this project is from The Nobel Foundation on Kaggle.
 
-## Exploring the Bitcoin Cryptocurrency Market
+### Exploring the Bitcoin Cryptocurrency Market
 https://github.com/dgizdevans/datacamp/tree/main/bitmarket
 
 You will explore the market capitalization of Bitcoin and other cryptocurrencies.
 Warning: The cryptocurrency market is exceptionally volatile, and any money you put in might disappear into thin air. Never invest money you can't afford to lose.
+
+## Projects using SQL
+
+### Analyze International Debt Statistics
+https://github.com/dgizdevans/datacamp/tree/main/sql-debt
+
+The data used in this project is provided by The World Bank. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
+
 
