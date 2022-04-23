@@ -53,4 +53,10 @@ The data used in this project is provided by The World Bank. It contains both na
 
 ### What and Where are the World's Oldest Businesses
 https://github.com/dgizdevans/datacamp/tree/main/sql-oldest-biz
+
 Use joining techniques to discover the oldest businesses in the world.
+
+### Optimizing Online Sports Retail Revenue
+https://github.com/dgizdevans/datacamp/tree/main/sql-optimize
+
+Sports clothing is a booming sector! In this notebook, I  used my SQL skills to analyze product data for an online sports retail company.
