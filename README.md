@@ -65,3 +65,8 @@ Use joining techniques to discover the oldest businesses in the world.
 https://github.com/dgizdevans/datacamp/tree/main/sql-optimize
 
 Sports clothing is a booming sector! In this notebook, I  used my SQL skills to analyze product data for an online sports retail company.
+
+### When Was the Golden Age of Video Games?
+https://github.com/dgizdevans/datacamp/tree/main/sql-videogames
+
+Use joins and set theory to discover the best years for video games!
