@@ -43,6 +43,11 @@ https://github.com/dgizdevans/datacamp/tree/main/bitmarket
 You will explore the market capitalization of Bitcoin and other cryptocurrencies.
 Warning: The cryptocurrency market is exceptionally volatile, and any money you put in might disappear into thin air. Never invest money you can't afford to lose.
 
+### Comparing Search Interest with Google Trends
+https://github.com/dgizdevans/datacamp/tree/main/karda
+
+Manipulate and plot time series data from Google Trends to analyze changes in search interest over time.
+
 
 ## Projects using SQL
 
