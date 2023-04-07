@@ -48,6 +48,10 @@ https://github.com/dgizdevans/datacamp/tree/main/karda
 
 Manipulate and plot time series data from Google Trends to analyze changes in search interest over time.
 
+### Designing a Bank Marketing Database
+Cleaning, storing data with Python and pulling daya to SQL
+https://github.com/dgizdevans/datacamp/blob/main/marketing-database/notebook.ipynb
+
 
 ## Projects using SQL
 
